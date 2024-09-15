@@ -10,6 +10,10 @@ This is a simple real-time chat application built using Flask and SocketIO. User
 https://github.com/user-attachments/assets/a244edc6-4ae2-4fe6-a6de-c9b6db8b875d
 
 
+## Deployed
+
+https://live-chat-room-flask.onrender.com
+**Deployed in free version so may take time, have patience :)
 
 ## Features
 
